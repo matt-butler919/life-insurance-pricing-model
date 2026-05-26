@@ -1,4 +1,4 @@
-# Life-Table
+# Life-Table-Mortality-Model
 Life Table project
 
 Link to full project - https://docs.google.com/spreadsheets/d/15qFrDGDchRUf2r1a_5xfxE8dqtwWEUt5av2AuEN6TaA/edit?gid=1646675705#gid=1646675705
